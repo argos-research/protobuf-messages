@@ -3,7 +3,7 @@ package protobuf;
 
 import "position.proto";
 
-message Track {
+message Setup {
   repeated Segment segments = 1;
 }
 
